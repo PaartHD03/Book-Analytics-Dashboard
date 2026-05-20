@@ -13,8 +13,8 @@ This project performs an in-depth analysis of a dataset containing 11,000+ books
 ![Book Analytics Dashboard](book_analytics_dashboard.png)
 
 ## Technologies Used
-* **Data Processing**: [e.g., Python/Pandas]
-* **Visualization**: [e.g., Power BI/Tableau/Matplotlib]
+* **Data Processing**: MySQL
+* **Visualization**: Power BI/Tableau
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
