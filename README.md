@@ -10,7 +10,7 @@ This project performs an in-depth analysis of a dataset containing 11,000+ books
 * **Reader Trends**: Visualized relationships between total books, average page counts, and reader satisfaction.
 
 ## Visualization
-![Book Analytics Dashboard](book-analytics.png)
+![Book Analytics Dashboard](book_analytics_dashboard.png)
 
 ## Technologies Used
 * **Data Processing**: [e.g., Python/Pandas]
